@@ -1,6 +1,6 @@
 # https://tea.xyz/what-is-this-file
 ---
-version: 20.0.0
+version: 18.0.0
 codeOwners:
   - '0x4F7De752af3e78E845ed9aF04E661a5Bb4e36346'
 quorum: 1
